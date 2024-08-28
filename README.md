@@ -4,7 +4,6 @@
 <!--                01                          -->
 <li><a href="https://certificate.codingninjas.com/view/36d506c4d18159d8">Certificate Of Completion in Introduction to C++</a>
 <br>
-<br>
 </li>
 <!--                02                         -->
 <li><a href="https://certificate.codingninjas.com/view/ff10c172ad92aafc">Certificate Of Excellence in Introduction to C++</a>
