@@ -1,6 +1,6 @@
-##Certificates
+#Certificates
 <br>
-<a href="https://certificate.codingninjas.com/view/bb9ff21a345b39d9">#Certificate Of Excellence in Introduction to C++</a>
+<a href="https://certificate.codingninjas.com/view/bb9ff21a345b39d9">Certificate Of Excellence in Introduction to C++</a>
 <br>
 <br>
 <img src="https://github.com/saurabh2121/My-certificates/blob/main/excellence in introduction in c++_page-0001.jpg" alt="Certificate Of Excellence in Introduction to C++">
